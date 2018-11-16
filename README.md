@@ -95,3 +95,7 @@ Our code is far from perfect is mostly a slightly more complicated word count, b
 https://jaceklaskowski.gitbooks.io/mastering-apache-spark/spark-rdd.html
 
 http://shakespeare.mit.edu/
+
+https://www.scala-lang.org/
+
+https://spark.apache.org/
