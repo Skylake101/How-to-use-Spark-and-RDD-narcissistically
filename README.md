@@ -1,4 +1,4 @@
-# 44-517 Workshop 8 [Tu-Nov-13] - Spark, RDD
+# Spark and RDD Practice
 ## Required Software
 * [Oracle JDK 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * [Scala](https://www.scala-lang.org/download/)
@@ -12,7 +12,7 @@
 * Zachary Haider
 * Goutham Neravetla
 
-## Our cenario: 
+## Our scenario: 
 You are a computer scientist by day and a thespian by night. The theater you work for decides that everyone gets to pick Shakespearean name and will be that character in every play regardless of the significance. Ofelia, the star of Twelfth Night and crazy victim in Hamlet. All you care about however, is the number of lines you can read. More lines = longer on stage =  more time to be discovered. Here is what you do.
 
 
