@@ -1,4 +1,4 @@
-# Spark and RDD Practice
+# Spark and RDD
 ## Required Software
 * [Oracle JDK 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * [Scala](https://www.scala-lang.org/download/)
