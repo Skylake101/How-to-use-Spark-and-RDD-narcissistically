@@ -6,7 +6,7 @@
 * Git bash (if useing Windows)
 * A text editor of your choice(optional but handy)
 
-## Group Members
+## Code Creators
 * Luke Carlson
 * Anik Paul Gomes
 * Zachary Haider
