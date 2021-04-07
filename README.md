@@ -6,12 +6,6 @@
 * Git bash (if useing Windows)
 * A text editor of your choice(optional but handy)
 
-## Code Creators
-* Luke Carlson
-* Anik Paul Gomes
-* Zachary Haider
-* Goutham Neravetla
-
 ## Our scenario: 
 You are a computer scientist by day and a thespian by night. The theater you work for decides that everyone gets to pick Shakespearean name and will be that character in every play regardless of the significance. Ofelia, the star of Twelfth Night and crazy victim in Hamlet. All you care about however, is the number of lines you can read. More lines = longer on stage =  more time to be discovered. Here is what you do.
 
@@ -88,6 +82,11 @@ fruitsandnuts.take(3)
 fruitsandnuts.first()
 fruitsandnuts.collect()
 
+## Code Creators
+* Luke Carlson
+* Anik Paul Gomes
+* Zachary Haider
+* Goutham Neravetla
 
 ## What we wish we knew:
 Our code is far from perfect is mostly a slightly more complicated word count, but that is what we were going for. Our initial problem was that we were trying to filter results based on the bold text and where splitting the text doc without the html tags. This meant we had to use both a regex for our split and added another filter. This proved more complicated than it needed to be and cost us a lot of time. Most of the difficult hurtles came from the regex and getting our information clean.
