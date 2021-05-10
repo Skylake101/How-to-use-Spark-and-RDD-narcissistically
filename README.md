@@ -3,7 +3,7 @@
 * [Oracle JDK 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * [Scala](https://www.scala-lang.org/download/)
 * [Spark](https://spark.apache.org/downloads.html)
-* Git bash (if useing Windows)
+* Git bash (if using Windows)
 * A text editor of your choice(optional but handy)
 
 ## Our scenario: 
