@@ -6,6 +6,8 @@
 * Git bash (if using Windows)
 * A text editor of your choice(optional but handy)
 
+Practice with four friends to use Spark and Scala to resolve a complex Big Data table. We processed lines from Shakespeare and made a fun story to go along with it.
+
 ## Our scenario: 
 You are a computer scientist by day and a thespian by night. The theater you work for decides that everyone gets to pick Shakespearean name and will be that character in every play regardless of the significance. Ofelia, the star of Twelfth Night and crazy victim in Hamlet. All you care about however, is the number of lines you can read. More lines = longer on stage =  more time to be discovered. Here is what you do.
 
